@@ -2,7 +2,7 @@
 
 import { useEffect, useState, ChangeEvent } from "react";
 
-interface Advocate {
+type Advocate = {
     firstName: string;
     lastName: string;
     city: string;
