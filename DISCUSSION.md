@@ -6,3 +6,4 @@
 6. Wish had more time to add a loading animation with skeleton and other loading animations for each loading component during search
 7. Wish had more time to put the plaintext into their own files and pull from the file to also setup for content management
 8. Wish had more time to add error handling for specific API errors like 404, 401, 403, 500 and respond accordingly with user-friendly messages as well as leave codes for developers for easy debugging
+9. Wish had more time for a11y testing and improvements
